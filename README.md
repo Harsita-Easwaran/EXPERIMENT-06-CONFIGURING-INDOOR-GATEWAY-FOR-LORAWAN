@@ -1,4 +1,6 @@
 # EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
+## NAME: HARSITA EASWARAN
+## REG NUMBER: 212224220036
 
 ## Aim: 
 
@@ -119,6 +121,7 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 
 ## OUTPUT 
+<img width="1248" height="658" alt="image" src="https://github.com/user-attachments/assets/f293ad61-2461-4d16-9268-bffe4918f9ca" />
 
 
 
